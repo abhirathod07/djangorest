@@ -1,0 +1,1 @@
+web: gunicorn restapisecond.wsgi:application --log-file -

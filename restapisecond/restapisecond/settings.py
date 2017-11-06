@@ -26,7 +26,7 @@ SECRET_KEY = '@7^%h2l_mg&#ggazsu5_#+ay09mrtg0zq#)d#29o55*_gnm0$-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['morning-basin-25829.herokuapp.com']
+ALLOWED_HOSTS = ['cryptic-earth-77872.herokuapp.com']
 
 
 # Application definition
